@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|solutionrelative:main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|d:\\436_obd_ukrainets\\uds\\ukr_tourop\\authorization_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|solutionrelative:authorization_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|solutionrelative:main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\authorization_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|solutionrelative:authorization_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\ukrainets_tour_opdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|solutionrelative:ukrainets_tour_opdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\print_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|solutionrelative:print_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\print_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|solutionrelative:print_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\tour_op.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{816D5C2B-EC82-4D6A-9072-FB1635793AAD}|Ukr_TourOp.csproj|solutionrelative:tour_op.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:11:02.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authorization_form.cs [Design]",
+              "DocumentMoniker": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Authorization_form.cs",
+              "RelativeDocumentMoniker": "Authorization_form.cs",
+              "ToolTip": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Authorization_form.cs [Design]",
+              "RelativeToolTip": "Authorization_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:13:00.142Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Authorization_form.cs",
+              "DocumentMoniker": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Authorization_form.cs",
+              "RelativeDocumentMoniker": "Authorization_form.cs",
+              "ToolTip": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Authorization_form.cs",
+              "RelativeToolTip": "Authorization_form.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:29:00.311Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main_form.cs [Design]",
+              "DocumentMoniker": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Main_form.cs",
+              "RelativeDocumentMoniker": "Main_form.cs",
+              "ToolTip": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Main_form.cs [Design]",
+              "RelativeToolTip": "Main_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:16:36.84Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_form.cs",
+              "DocumentMoniker": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Main_form.cs",
+              "RelativeDocumentMoniker": "Main_form.cs",
+              "ToolTip": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Main_form.cs",
+              "RelativeToolTip": "Main_form.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAzwMcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:25:19.418Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ukrainets_tour_opDataSet.xsd",
+              "DocumentMoniker": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Ukrainets_tour_opDataSet.xsd",
+              "RelativeDocumentMoniker": "Ukrainets_tour_opDataSet.xsd",
+              "ToolTip": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Ukrainets_tour_opDataSet.xsd",
+              "RelativeToolTip": "Ukrainets_tour_opDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-03-24T12:41:35.708Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Print_form.cs [Design]",
+              "DocumentMoniker": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Print_form.cs",
+              "RelativeDocumentMoniker": "Print_form.cs",
+              "ToolTip": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Print_form.cs [Design]",
+              "RelativeToolTip": "Print_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:20:13.711Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Print_form.cs",
+              "DocumentMoniker": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Print_form.cs",
+              "RelativeDocumentMoniker": "Print_form.cs",
+              "ToolTip": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\Print_form.cs",
+              "RelativeToolTip": "Print_form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T17:24:05.658Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tour_op.rdlc [Design]",
+              "DocumentMoniker": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\tour_op.rdlc",
+              "RelativeDocumentMoniker": "tour_op.rdlc",
+              "ToolTip": "D:\\436_OBD_Ukrainets\\UDS\\Ukr_TourOp\\tour_op.rdlc [Design]",
+              "RelativeToolTip": "tour_op.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-03-24T17:33:14.134Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
